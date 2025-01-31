@@ -6,4 +6,4 @@ for i in range(n):
     line.insert(len(line) - numbers[i], i + 1)
 
 print(" ".join(map(str, line)))
-##  
+##  ####
